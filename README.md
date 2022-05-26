@@ -10,7 +10,7 @@
 <b> -> Php<br>
 <b> -> Internet connection lol
 # How to use 
-    Download this repertory and put everything in a folder
+    Download this source code repository and put everything in a folder
     Inside the in folder but your obfuscated file code
     Run in console : php main.php
     And follow the instructions and the file will be decoded and will be located in the out folder !
